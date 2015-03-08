@@ -1,0 +1,2 @@
+load("/Users/solviro/Documents/R-Coursera/Project 1, exploratory/environment.RData")
+head(data2)
